@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+     rgba(0, 0, 0, 0.12) 0px -12px 30px,
+      rgba(0, 0, 0, 0.12) 0px 4px 6px, 
+      rgba(0, 0, 0, 0.17) 0px 12px 13px,
+     rgba(0, 0, 0, 0.09) 0px -3px 5px;
+     height: 400px;
+     width: 450px;
+     text-align: center;
+     margin-top: 50px;
+     margin-left: 470px;
+}
+
+h2{
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: Arial;
+}
+.name{
+    margin-top: 30px;
+    height: 30px;
+    width: 380px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.add{
+    margin-top: 20px;
+    height: 45px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: rgb(46, 212, 46);
+}
+.add:hover{
+    background-color: green;
+}
+
+.team{
+    margin-top: 30px;
+    margin-left: 27px;
+    height: 100px;
+    width: 400px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+p{
+    padding-top: 10px;
+    margin-right: 270px;
+    
+}
+.mod{
+    margin-top: 27px;
+    margin-left: 160px;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: gray;
+    
+}
+.mod:hover{
+    background-color:rgb(192, 156, 156) ;
+}
+
+.sup{
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+    background-color: red;
+}
+.sup:hover{
+    background-color:rgb(167, 89, 89);
+}
