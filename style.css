@@ -34,6 +34,7 @@ h2{
     width: 400px;
     border-radius: 5px;
     background-color: rgb(46, 212, 46);
+    color: white;
 }
 .add:hover{
     background-color: green;
@@ -60,6 +61,7 @@ p{
     width: 100px;
     border-radius: 5px;
     background-color: gray;
+    color: white;
     
 }
 .mod:hover{
@@ -71,6 +73,7 @@ p{
     width: 90px;
     border-radius: 5px;
     background-color: red;
+    color: white;
 }
 .sup:hover{
     background-color:rgb(167, 89, 89);
